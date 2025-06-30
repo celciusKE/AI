@@ -1,0 +1,16 @@
+Test Case 01 - User greetings
+
+ME: hello
+BOT: Hi there! How can I help you today?
+
+ME: how are you
+BOT: I'm a bot, so I don't have feelings, but I'm ready to assist you!
+
+ME: goodbye
+BOT: Goodbye! Have a great day!
+
+ME: what is the weather like
+BOT: I'm not sure I understand. Can you rephrase that?
+
+ME: GREETING_UTT
+BOT: (Hello|Hi there)! How can I help you today?

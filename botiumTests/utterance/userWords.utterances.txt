@@ -1,0 +1,4 @@
+Test Case 02 - Creating random utterances
+
+GREETING_UTT hello, hi, hey, good morning
+GOODBYE_UTT bye, goodbye, see ya
