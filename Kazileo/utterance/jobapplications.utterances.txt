@@ -1,0 +1,3 @@
+Test Case 02 - Job application utterances
+
+JOBAPP-UTT "Tafuta kazi","Nionyeshe training","Tengeneza CV"

@@ -1,0 +1,16 @@
+Test Case 01 - User greetings
+
+ME: hello
+BOT: Hi there! How can I help you today?
+
+ME: What's your name?
+BOT: I'm Riziki
+
+ME: find a job
+BOT: Sounds good! Which type of job are you interested in?
+
+ME: Testing
+BOT: Searching for Testing listings for you now. Hang tight!
+
+ME: Biashara
+BOT: Fantastic! What entrepreneurship topic are you interested in?

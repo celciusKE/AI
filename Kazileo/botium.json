@@ -1,0 +1,26 @@
+
+{
+  "botium": {
+    "Capabilities": {
+      "PROJECTNAME": "Random AI Test",
+      "CONTAINERMODE": "whatsapp",
+      "SIMPLEREST_URL": "", 
+      "SIMPLEREST_METHOD": "POST",
+      "SIMPLEREST_HEADERS_JSON": {
+        "Content-Type": "application/json"
+      },
+      "SIMPLEREST_BODY_JSON": {
+        "message": "{{msg.messageText}}"
+      },
+      "SIMPLEREST_RESPONSE_JSONPATH": "$.message",
+      "SIMPLEREST_PROXY_ENABLE_WEBHOOK": false,
+      "SCRIPTING_CONVO_FILESET": [
+        "./convos", 
+        "./testdata/mytests.convo.txt"
+      ],
+      "SCRIPTING_UTTERANCE_FILESET": [
+        "./utterances" 
+      ]
+    }
+  }
+}
